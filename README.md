@@ -10,7 +10,7 @@
 - plotly  
 
 ### 📷 Visualização do Gráfico  
-![Gráfico de Habilidades](grafico.png)  
+![Gráfico de Habilidades](Gráfico_PNG.png)  
 
 ### 🌐 Visualizar Interativamente  
-[Clique aqui para abrir o gráfico interativo](grafico.html)    
+[Clique aqui para abrir o gráfico interativo](Gráfico_HTML.html)    
