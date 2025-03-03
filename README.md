@@ -13,4 +13,4 @@
 ![Gráfico de Habilidades](Gráfico_PNG.png)  
 
 ### 🌐 Visualizar Interativamente  
-[Clique aqui para abrir o gráfico interativo](Gráfico_HTML.html)    
+[Clique aqui para abrir o gráfico interativo](https://lorenadss.github.io/lorena-habilidades/Gráfico_HTML.html)    
