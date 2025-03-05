@@ -1,16 +1,24 @@
-﻿# lorena-habilidades
-🚀 Visualização de dados aplicada à minha jornada! Aqui você encontra um gráfico gerado em R utilizando ggplot2 e plotly para representar minhas habilidades.
 # 📊 Habilidades de Lorena  
 
-Este repositório contém um gráfico feito em R.
+Este repositório contém um gráfico feito em R representando minhas habilidades.  
 
 ## 🖥️ Tecnologias utilizadas  
 - R  
 - ggplot2  
 - plotly  
 
-### 📷 Visualização do Gráfico  
+## 📷 Visualização do Gráfico  
 ![Gráfico de Habilidades](Gráfico_PNG.png)  
 
-### 🌐 Visualizar Interativamente  
-[Clique aqui para abrir o gráfico interativo](https://lorenadss.github.io/lorena-habilidades/Gráfico_HTML.html)    
+## 🌐 Visualizar Interativamente  
+[Clique aqui para abrir o gráfico interativo](Gráfico_HTML.html)  
+
+## 🎞️ Animação do Gráfico  
+![Gráfico Animado](Gráfico_GIF.gif)  
+
+## 📜 Tutorial  
+Se você deseja aprender a construir esse gráfico do zero, siga o passo a passo disponível em:  
+[Tutorial de Construção do Gráfico](TUTORIAL.md)  
+
+## 📂 Código  
+O código utilizado para gerar este gráfico pode ser encontrado no arquivo [`grafico.R`](grafico.R).  
