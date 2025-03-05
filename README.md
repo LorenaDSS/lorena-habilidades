@@ -11,7 +11,7 @@ Este repositório contém um gráfico feito em R representando minhas habilidade
 ![Gráfico de Habilidades](Gráfico.png)  
 
 ## 🌐 Visualizar Interativamente  
-[Clique aqui para abrir o gráfico interativo](páginas/Gráfico.html)
+[Clique aqui para abrir o gráfico interativo](Gráfico.html)
 
 ## 🎞️ Animação do Gráfico  
 ![Gráfico Animado](Gráfico.gif)  
