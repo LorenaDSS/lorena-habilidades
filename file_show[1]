@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="author" content="Posit Software, PBC">
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+
+<meta name="test:template" content="login">
+<meta name="description" content="Log in to Posit.">
+<title>Posit - Log In</title>
+
+<meta name="viewport" content="width=device-width initial-scale=1.0">
+<link href="/static/cloud/auth.css?v=0b35acfa4127e9a3661dde5937aa8086824e186ebd69dd63fc90e74b1b638f7261866da659fbec3d11ad4e6b4935ecef4c6d0b6357b0c3ab3c5da021ee83211f" rel="stylesheet">
+<link href="/static/cloud/images/favicon.ico?v=df99bd5b2e9d59c5d6c8ce5e2e1d7c4265e23b8979eb9b48311e25bbe28334c395f1fbec07ecd393ffb4a0a5af202e4eca8fc231b4166880e6b5fffc93ca607f" rel="icon">
+<script type="text/javascript">
+window.server = JSON.parse("\x7B\x22\x72\x65\x64\x69\x72\x65\x63\x74\x22\x3A\x20\x22\x2F\x6F\x61\x75\x74\x68\x2F\x61\x75\x74\x68\x6F\x72\x69\x7A\x65\x3F\x63\x6C\x69\x65\x6E\x74\x5F\x61\x70\x70\x6C\x69\x63\x61\x74\x69\x6F\x6E\x3D\x31\x34\x31\x36\x35\x30\x35\x36\x26\x63\x6C\x69\x65\x6E\x74\x5F\x73\x69\x67\x6E\x61\x74\x75\x72\x65\x3D\x30\x38\x63\x31\x30\x30\x65\x61\x38\x32\x39\x30\x33\x39\x64\x65\x36\x61\x66\x61\x39\x63\x34\x35\x36\x65\x63\x63\x37\x35\x37\x39\x66\x34\x63\x32\x63\x33\x37\x39\x30\x30\x62\x30\x37\x32\x35\x39\x38\x32\x33\x36\x36\x31\x35\x66\x61\x38\x65\x30\x32\x61\x38\x66\x26\x72\x65\x64\x69\x72\x65\x63\x74\x5F\x75\x72\x69\x3D\x68\x74\x74\x70\x73\x25\x33\x41\x25\x32\x46\x25\x32\x46\x63\x66\x33\x39\x33\x61\x66\x33\x64\x34\x34\x64\x34\x38\x31\x32\x38\x62\x33\x64\x31\x63\x66\x31\x66\x33\x64\x35\x66\x34\x61\x65\x2E\x61\x70\x70\x2E\x70\x6F\x73\x69\x74\x2E\x63\x6C\x6F\x75\x64\x25\x32\x46\x5F\x5F\x6C\x6F\x67\x69\x6E\x5F\x5F\x25\x32\x46\x26\x72\x65\x73\x70\x6F\x6E\x73\x65\x5F\x74\x79\x70\x65\x3D\x63\x6F\x64\x65\x26\x73\x74\x61\x74\x65\x3D\x65\x79\x4A\x68\x64\x58\x52\x76\x58\x32\x78\x76\x5A\x32\x6C\x75\x49\x6A\x6F\x67\x64\x48\x4A\x31\x5A\x58\x30\x25\x33\x44\x26\x73\x68\x6F\x77\x5F\x61\x75\x74\x68\x3D\x30\x26\x63\x6C\x69\x65\x6E\x74\x5F\x69\x64\x3D\x45\x30\x46\x46\x38\x38\x39\x34\x41\x43\x33\x46\x44\x43\x31\x32\x45\x30\x41\x31\x42\x33\x37\x43\x36\x46\x38\x32\x33\x43\x42\x37\x41\x41\x34\x32\x45\x46\x37\x36\x42\x42\x41\x39\x42\x41\x44\x43\x22\x2C\x20\x22\x61\x75\x74\x68\x5F\x6D\x65\x74\x68\x6F\x64\x73\x22\x3A\x20\x7B\x7D\x2C\x20\x22\x5F\x78\x73\x72\x66\x22\x3A\x20\x22\x32\x7C\x30\x37\x30\x36\x62\x33\x65\x38\x7C\x34\x35\x65\x35\x35\x39\x39\x31\x63\x34\x33\x62\x33\x64\x36\x63\x30\x62\x66\x31\x64\x39\x35\x61\x34\x33\x63\x32\x65\x30\x35\x37\x7C\x31\x37\x34\x31\x31\x38\x39\x32\x33\x36\x22\x7D");
+</script>
+</head>
+<body>
+<div id="app" class="shrinkHeader">
+<div id="main">
+<header id="rStudioHeader">
+<div class="band">
+<div class="innards bandContent">
+<div id="logoContainer">
+<a href="/">
+<div class="productLogo"></div>
+</a>
+</div>
+</div>
+</div>
+</header>
+<div class="band pushFooter">
+<div id="entry" class="bandContent mainPage dontPadExtra"></div>
+</div>
+<div id="rStudioFooter" class="band">
+<div class="bandContent">
+<div>
+<div id="footerLogo"></div>
+<div class="footerMenu">
+<a href="https://posit.co/about/posit-service-terms-of-use/" target="_blank" rel="noopener noreferrer">
+Terms of Use
+</a>
+<a href="https://posit.co/about/privacy-policy/" target="_blank" rel="noopener noreferrer">
+Privacy Policy
+</a>
+<a href="https://status.posit.co/" target="_blank" rel="noopener noreferrer">
+Status
+</a>
+</div>
+</div>
+<div id="logos">
+<a href="https://pos.it/facebook" class="footerLogo facebook" aria-label="Facebook" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://pos.it/twitter" class="footerLogo twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://pos.it/linkedin" class="footerLogo linkedIn" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://pos.it/instagram" class="footerLogo instagram" aria-label="Instagram" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://pos.it/github" class="footerLogo gitHub" aria-label="GitHub" target="_blank" rel="noopener noreferrer"></a>
+<div id="copyright">&copy; 2022 Posit Software, PBC</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/static/js/vendor.js?v=5036b060d69737bebdce21da130fa108a838c2e67432dc8dbe3a804b03ec54fa7e1c9c451c57884ea2f02198357592370e338e6a6e7e80fb5d6927da1be609fe" type="text/javascript"></script>
+
+<script src="/static/js/login.js?v=7be6d7491b4d8f904898e4967332e4508b226efc587a054af39897fc2920a075031f5c225232f2952b084dac38b78c2681d856b4de45ae5392e89707f0ed322f" type="text/javascript"></script>
+
+</body>
+</html>
