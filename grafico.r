@@ -27,7 +27,7 @@ anim <- p +
 animate(anim, renderer = gifski_renderer("Gráfico_animado.gif"), width = 800, height = 600, duration = 5)
 
 fig <- ggplotly(p)
-htmlwidgets::saveWidget(fig, "Gráfico_HTML.html")
+htmlwidgets::saveWidget(fig, "Gráfico.html")
 
-ggsave("Gráfico_PNG.png", plot = p, width = 8, height = 6)
+ggsave("Gráfico.png", plot = p, width = 8, height = 6)
 
