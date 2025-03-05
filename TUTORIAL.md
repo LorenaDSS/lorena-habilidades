@@ -49,11 +49,11 @@ animate(anim, renderer = gifski_renderer("Gráfico_animado.gif"), width = 800, h
 🔹 Passo 5: Criar a Versão Interativa
 
 fig <- ggplotly(p)
-htmlwidgets::saveWidget(fig, "Gráfico_HTML.html")
+htmlwidgets::saveWidget(fig, "Gráfico.html")
 
 🔹 Passo 6: Exportar o Gráfico Estático
 
-ggsave("Gráfico_PNG.png", plot = p, width = 8, height = 6)
+ggsave("Gráfico.png", plot = p, width = 8, height = 6)
 
 📁 Arquivos Gerados
 Após rodar o código, os seguintes arquivos serão criados no diretório:
