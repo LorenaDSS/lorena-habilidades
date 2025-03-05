@@ -8,13 +8,13 @@ Este repositório contém um gráfico feito em R representando minhas habilidade
 - plotly  
 
 ## 📷 Visualização do Gráfico  
-![Gráfico de Habilidades](Gráfico_PNG.png)  
+![Gráfico de Habilidades](Gráfico.png)  
 
 ## 🌐 Visualizar Interativamente  
-[Clique aqui para abrir o gráfico interativo](Gráfico_HTML.html)  
+[Clique aqui para abrir o gráfico interativo](Gráfico.html)  
 
 ## 🎞️ Animação do Gráfico  
-![Gráfico Animado](Gráfico_GIF.gif)  
+![Gráfico Animado](Gráfico.gif)  
 
 ## 📜 Tutorial  
 Se você deseja aprender a construir esse gráfico do zero, siga o passo a passo disponível em:  
