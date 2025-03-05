@@ -10,6 +10,7 @@ Antes de começar, certifique-se de ter **R** e **RStudio** instalados. Além di
 
 ```r
 install.packages(c("ggplot2", "plotly", "RColorBrewer", "gganimate", "gifski"))
+
 🔹 Passo 1: Carregar as Bibliotecas
 
 library(ggplot2)
@@ -24,6 +25,7 @@ data <- data.frame(
   Habilidade = c("SQL", "Inteligência Emocional", "R", "Dedicação", "Criatividade"),
   Nivel = c(6.5, 8, 7, 9, 8)
 )
+
 🔹 Passo 3: Criar o Gráfico Base
 
 cores <- brewer.pal(5, "Pastel1")
