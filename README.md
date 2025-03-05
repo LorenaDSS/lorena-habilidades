@@ -1,4 +1,4 @@
-# 📊 Habilidades de Lorena  
+# 📊 Gráfico de Habilidades 
 
 Este repositório contém um gráfico feito em R representando minhas habilidades.  
 
